@@ -4,7 +4,6 @@
 This project focuses on predicting heart disease using machine learning techniques. By analyzing various health indicators such as age, cholesterol levels, and blood pressure, the model determines the likelihood of a person developing heart disease.
 
 ## 📂 Dataset
-- The dataset used comes from [source name, e.g., UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Heart+Disease) or another public dataset.
 - It contains features such as:
   - **Age** 🏥  
   - **Gender** 👤  
